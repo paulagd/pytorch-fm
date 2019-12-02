@@ -8,6 +8,7 @@ This package provides a PyTorch implementation of factorization machine models a
 * [MovieLens Dataset](https://grouplens.org/datasets/movielens)
 * [Criteo Display Advertising Challenge](https://www.kaggle.com/c/criteo-display-ad-challenge)
 * [Avazu Click-Through Rate Prediction](https://www.kaggle.com/c/avazu-ctr-prediction)
+* [Frappè Dataset](https://github.com/hexiangnan/neural_factorization_machine/tree/master/data/frappe)
 
 
 ## Available Models
